@@ -10,7 +10,7 @@ sections:
   image: "/images/feel-1.svg"
   actions:
   - label: 'Learn more '
-    url: "/goal"
+    url: "/about"
 - type: section_features
   template: section_features
   section_id: what we do
