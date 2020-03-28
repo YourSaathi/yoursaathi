@@ -8,7 +8,9 @@ sections:
   content: Welcome to **YourSaathi** a Counselling Platform for all the Women who
     are trying to best heal from things they do not discuss.
   image: "/images/feel-1.svg"
-  actions: []
+  actions:
+  - label: 'Learn more '
+    url: "/goals"
 - type: section_features
   template: section_features
   section_id: what we do
