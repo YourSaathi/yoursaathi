@@ -1,5 +1,5 @@
 ---
-title: Our Goals
+title: Goals
 sections:
 - type: section_content
   template: section_content
