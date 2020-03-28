@@ -19,11 +19,11 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call to Action Block!
-  subtitle: This is an optional description for the call to action block.
+  title: Feeling Depressed? Are You Looking out for help ?
+  subtitle: Drop a mail to us, we may contact you.
   actions:
-  - label: Get Started
-    url: "#"
+  - label: Contact Us
+    url: contact
 menus:
   main:
     title: Features
