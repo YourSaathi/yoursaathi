@@ -3,23 +3,19 @@ title: Our Goals
 sections:
 - type: section_content
   template: section_content
-  section_id: features
-  title: The Best Features of Your Services
-  content: |-
-    Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum consectetur lobortis.
-
-    * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    * Ut eu nunc at diam fringilla fringilla eu ut massa.
-    * Phasellus ut enim non lorem venenatis rutrum.
-
-    Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor sed justo tempor condimentum.
-  image: images/feature1.png
+  section_id: goals
+  title: Our Goals
+  content: A woman faces problems or challenges in her day to day life either socially
+    or physically. By playing so many roles at the same time, be it as a mother, sister,
+    daughter, wife and many more, she eventually loses her own identity or struggles
+    to maintain it. Women often restrict themselves from disclosing their problems
+    due to their family reputation. Therefore we came up with YourSaathi to emancipate
+    women and to let her live her life with full dignity and choice.
+  image: "/images/undraw_happy_women_day_fbjt.svg"
   bg: gray
   actions:
-  - label: Free Trial
-    url: "/signup"
-  - label: View Demo
-    url: "#"
+  - label: 'Contact '
+    url: contact
 - type: section_cta
   template: section_cta
   section_id: call-to-action
