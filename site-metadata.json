@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Sign Up",
-          "url": "/signup"
+          "label": "Need Help",
+          "url": "/contact"
         }
       ]
     }
