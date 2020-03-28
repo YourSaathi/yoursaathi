@@ -26,14 +26,15 @@ sections:
     actions: []
   - title: Face to Face Counselling
     content: We provide face to face counselling if required by a women. They can
-      interact through video call or audio call.
+      interact through video call or audio call. It will help women gain inspiration
+      from others and would be provided with a safe environment where they would not
+      be judged by others.
     image: "/images/undraw_video_call_kxyp.svg"
     actions:
     - label: Learn More
       url: "/features"
   - title: A Forum
-    content: There is a forum where women can share problems in a group of women and
-      counsellors.
+    content: 'There is a forum to share problems with a group of women and counsellors. '
     image: "/images/undraw_community_8nwl.svg"
     actions:
     - label: Learn More
