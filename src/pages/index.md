@@ -11,15 +11,16 @@ sections:
   actions: []
 - type: section_features
   template: section_features
-  section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  section_id: what we do
+  title: 'What We do? '
+  subtitle: YourSaathi is a Counselling platform for women helping them to deal with
+    day to day life problems, stress, anxiety, depression and any challenges she is
+    facing. YourSaathi provides various ways for counselling
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: Anonymous Counselling
+    content: We provide Anonymous Counselling to the women who don't feel comfortable
+      revealing their identity.
     image: images/feature1.png
     actions:
     - label: Learn More
