@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Blog
 sections:
   - type: section_pricing
     template: section_pricing
@@ -70,7 +70,7 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 menus:
   main:
-    title: blog
+    title: Blog
     weight: 3
 template: landing
 ---
