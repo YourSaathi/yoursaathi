@@ -21,7 +21,7 @@ sections:
   - title: Anonymous Counselling
     content: We provide Anonymous Counselling to the women who don't feel comfortable
       revealing their identity.
-    image: images/feature1.png
+    image: "/images/undraw_chatting_2yvo.svg"
     actions:
     - label: Learn More
       url: "/features"
