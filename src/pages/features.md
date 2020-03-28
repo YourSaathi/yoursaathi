@@ -13,9 +13,7 @@ sections:
     women and to let her live her life with full dignity and choice.
   image: "/images/undraw_happy_women_day_fbjt.svg"
   bg: gray
-  actions:
-  - label: 'Contact '
-    url: contact
+  actions: []
 - type: section_cta
   template: section_cta
   section_id: call-to-action
