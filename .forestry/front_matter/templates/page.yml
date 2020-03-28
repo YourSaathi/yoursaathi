@@ -26,4 +26,3 @@ fields:
 pages:
 - src/pages/about.md
 - src/pages/signup.md
-- src/pages/style-guide.md
