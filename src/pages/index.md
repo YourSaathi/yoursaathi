@@ -20,7 +20,8 @@ sections:
   featureslist:
   - title: Anonymous Counselling
     content: We provide Anonymous Counselling to the women who don't feel comfortable
-      revealing their identity.
+      revealing their identity. It helps them to address their grievances in a comprehensive
+      manner without violating their privacy.
     image: "/images/undraw_chatting_2yvo.svg"
     actions: []
   - title: Face to Face Counselling
