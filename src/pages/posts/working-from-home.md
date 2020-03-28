@@ -1,26 +1,45 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
-date: '2019-04-22'
+title: 'COVID-19: An attack on mental health'
+date: 2019-04-22
 thumb_img_path: images/9_thumb.jpg
 img_path: images/9.jpg
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
+excerpt: Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
 template: post
+subtitle: ''
+
 ---
+![](/images/Ivory and Ash Grey Photo DIY Influencer Minimalist Facebook Cover.png)
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
+The rising tide of terror accompanied by apprehensions and fear have made the whole world fall into the outbreak of the corona pandemic. the growing incidence of such a disease has not only impacted the physical health but have also contributed towards deteriorating mental ability and the cognitive skills of healthy individuals. This situation thus substantiates the need to create awareness regarding the true facts associated with COVID-19 and the necessary steps to prevent it.
 
-## Advantages and Disadvantages 
+According to WHO, **"COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019".**
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+The availability of numerous informational sources disseminating a blend of real and fake news had caused anxiety, obsession and nervousness among individuals. This somehow reflects the low level of understanding and lack of initiative on our part to search for a legitimate source of information which in turn requires to strike a balance between such rumours and our own level of maturity.
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+So, We should take a step forward proactively rather than reacting on an escalating and an unprecedented consequence of such a deadly disease. One of the ways is to follow the below-mentioned precautions.
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+1\.Wash Your Hands
 
-## Types Of Work
+Wash your with soap often if they seem to be dirty or Clean them with alcohol-based sanitizer if they don't seem to be dirty.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
+2\. Cough into elbows
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+If you are not suffering from cough or cold, sneeze or cough into your elbows.
+
+3\. Don't Touch your face
+
+Avoid touching your face, nose and mouth.
+
+4\. Keep Safe Distance
+
+Try to maintain a distance of 1 m from the person suffering from cold or fever.
+
+  
+5\. Stay Home
+
+Stay home if you can and Avoid social gathering.
+
+Despite knowing these facts people often ignore them, thereby making their immediate contacts more vulnerable to this disease. So in order to remain safe and secure a dedicated and a wholehearted implementation of such precautionary measures is the need of an hour which can also help in containing this virus within a short span of time. So instead of being obsessed about its possible repercussions, we all must stand in unison in order to fight against this pandemic.
+
+> Stay Safe! Stay Home!!
