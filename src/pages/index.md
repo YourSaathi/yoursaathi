@@ -32,10 +32,10 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
+  - title: A Forum
+    content: There is a forum where women can share problems in a group of women and
+      counsellors.
+    image: "/images/undraw_community_8nwl.svg"
     actions:
     - label: Learn More
       url: "/features"
