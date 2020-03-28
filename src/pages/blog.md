@@ -70,7 +70,7 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 menus:
   main:
-    title: Pricing
+    title: blog
     weight: 3
 template: landing
 ---
