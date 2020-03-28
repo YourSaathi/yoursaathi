@@ -26,5 +26,3 @@ It's like a headache, you think its another bad day, but it's not, you are stuck
 To deal with this problem we came up with YourSaathi, An Anonymous Counselling Platform for Women. It also provides a forum where women can discuss their problem in a group of people to help women who suffer from depression and anxiety in their day to day life.
 
 YourSaathi has come up with this idea solely to help such women who have huge potential to succeed but are often misguided and find it difficult to return. My message to all such beautiful ladies out here is that: How difficult the situation be, just fight like a warrior and never let your stress and anxiety overpower your self-belief. Every problem has a solution but what is required is your inner faith and your belief in yourself to find that solution, and if somehow you find it difficult to come on to a most appropriate solution we as YOURSAATHI is always there to help you out. So just live that smile on your face and make us your forever Saathi 💜.
-
-![](/images/Facebook Cover 851x315 px - Email Header (1).png)
