@@ -37,9 +37,7 @@ sections:
       will help women gain inspiration from others and would be provided with a safe
       environment where they would not be judged by others.
     image: "/images/undraw_community_8nwl.svg"
-    actions:
-    - label: Learn More
-      url: "/features"
+    actions: []
 - type: section_cta
   template: section_cta
   section_id: feeling depressed
