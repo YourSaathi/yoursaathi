@@ -1,6 +1,6 @@
 ---
 title: Why Did We Come up with YourSaathi ?
-date: 2019-03-10
+date: 2020-03-14T11:54:00Z
 thumb_img_path: images/12_thumb.jpg
 img_path: images/12.jpg
 excerpt: Pellentesque habitant morbi tristique senectus et netus et malesuada fames
@@ -9,12 +9,24 @@ template: post
 subtitle: ''
 
 ---
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam maximus mauris sagittis, iaculis diam ac, ultrices risus. Aliquam finibus, ipsum eget ultricies imperdiet, arcu diam suscipit urna, eu bibendum tortor tellus vel risus. Praesent quis scelerisque velit. Curabitur varius erat non dignissim porta. Duis viverra sapien a metus semper, et porttitor dolor convallis. Nulla eu dolor volutpat, mollis arcu ut, semper ex. Morbi ultricies, quam et ullamcorper mattis, elit dolor facilisis dui, non consectetur erat elit eu sapien. Duis scelerisque ante iaculis, accumsan mi vel, tempus libero. Fusce quis ipsum in sapien consequat tempor. Duis varius blandit neque quis tempor. Sed sollicitudin ante vitae lectus feugiat tempus. Ut mauris ex, venenatis a vestibulum nec, ullamcorper a erat. Vivamus leo ipsum, porta in iaculis sit amet, euismod non mi.
+> Sending Love to all the Women who are trying to best heal from the things they donot discuss! ❤❤
 
-Curabitur sed tellus eu felis convallis cursus at vitae neque. Phasellus sem nulla, ornare sit amet augue quis, consectetur lobortis diam. Etiam in egestas orci. Curabitur scelerisque id ligula id rutrum. Maecenas pharetra sapien et hendrerit facilisis. Vestibulum finibus mauris et ultricies porta. Praesent laoreet mauris elit, a semper risus euismod at. Pellentesque ullamcorper augue augue, eget porta nisl volutpat nec. Mauris porttitor commodo tortor eu tincidunt. Ut ut enim iaculis, aliquam augue ut, cursus tortor.
+Hello Ladies 👧!!
 
-Cras interdum commodo commodo. Nunc condimentum, eros id consectetur tincidunt, metus ligula venenatis urna, sit amet pharetra dui purus sed tellus. Suspendisse finibus gravida risus, vel sodales nisl fringilla consequat. Aliquam sit amet mollis lorem. Suspendisse dignissim mi tortor, quis iaculis nulla fermentum ut. Nunc laoreet augue vitae aliquet aliquet. Praesent dapibus at dui sit amet interdum. Fusce finibus risus in nibh ultricies, a bibendum lacus pulvinar.
+From ancient times until the present, Women are often harassed and exploited which has resulted in their under development and have somehow forced them to survive on the mercy of the thoughts and the judgments of the society. Women have always succeeded in adapting themselves into multiple roles, be it as a mother, wife or a daughter. However their remarkable contribution is often neglected and overlooked by society, this thus makes women feel isolated, incapable and sometimes incompetent as compared to their male counterparts.
 
-Proin viverra, ex ut ullamcorper finibus, purus odio porttitor neque, in blandit lectus massa vel massa. Etiam vel mauris ligula. Sed dignissim tellus vel ex tincidunt, eget tempus metus lobortis. In ex felis, fermentum ut ultrices in, consequat ut justo. Etiam ullamcorper, risus nec facilisis porta, ex quam mattis nisi, id consequat turpis massa non dolor. Vestibulum lectus ante, scelerisque quis tempor et, mattis eu justo. Sed ante orci, feugiat aliquet malesuada sed, efficitur ac ex. Morbi ex nisi, tempor eu congue quis, ultrices id justo. Etiam urna libero, porttitor at imperdiet at, ultricies ac erat. Pellentesque est nibh, volutpat nec tempus et, luctus vel urna. Cras faucibus dolor feugiat velit convallis, sit amet consectetur eros tempor. Integer mi elit, semper sed facilisis vel, convallis ut turpis.
+Judging women as per the social dogmas is not the ONLY problem that women face. The emergence of the "so-called" developing world have made them the victim of rapes, domestic violence, social exclusion and even acid attacks. The increase in the frequency and the intensity of such offences contribute to the emergence of depression, anxiety and at an extreme end the "Suicidal Thought". Despite facing such severe phycological trauma, Women rarely share their problems with anyone, the reason being their fear of getting judged and the fear of getting their family reputation at stake by telling it to someone they know.
 
-Curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
+![](/images/gif.gif)
+
+Depression is not a disease, it's not a problem it's inevitable, It can happen to anyone at any time.
+
+It's like a headache, you think its another bad day, but it's not, you are stuck in that state of mind. You get used to by putting the social mask on your face. It feels like something terrible gonna happen and presented as the tightness in the chest, stomach ache and body gets shaky. It starts to feel heavy and started having obnoxious thoughts.
+
+  
+To deal with this problem we came up with YourSaathi, An Anonymous Counselling Platform for Women. It also provides a forum where women can discuss their problem in a group of people to help women who suffer from depression and anxiety in their day to day life.
+
+  
+YourSaathi has come up with this idea solely to help such women who have huge potential to succeed but are often misguided and find it difficult to return. My message to all such beautiful ladies out here is that: How difficult the situation be, just fight like a warrior and never let your stress and anxiety overpower your self-belief. Every problem has a solution but what is required is your inner faith and your belief in yourself to find that solution, and if somehow you find it difficult to come on to a most appropriate solution we as YOURSAATHI is always there to help you out. So just live that smile on your face and make us your forever Saathi 💜.
+
+![](/images/Facebook Cover 851x315 px - Email Header (1).png)
