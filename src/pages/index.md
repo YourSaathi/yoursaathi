@@ -32,7 +32,9 @@ sections:
     - label: Learn More
       url: "/features"
   - title: A Forum
-    content: 'There is a forum to share problems with a group of women and counsellors. '
+    content: There is a forum to share problems with a group of women and counsellors.t
+      will help women gain inspiration from others and would be provided with a safe
+      environment where they would not be judged by others.
     image: "/images/undraw_community_8nwl.svg"
     actions:
     - label: Learn More
