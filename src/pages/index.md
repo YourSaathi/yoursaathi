@@ -7,7 +7,7 @@ sections:
   title: Hey Beautiful!!
   content: Welcome to **YourSaathi** a Counselling Platform for all the Women who
     are trying to best heal from things they do not discuss.
-  image: "/images/undraw_feeling_blue_4b7q-1.svg"
+  image: "/images/undraw_feeling_blue_4b7q-2.svg"
   actions: []
 - type: section_features
   template: section_features
