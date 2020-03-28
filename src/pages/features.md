@@ -24,7 +24,7 @@ sections:
     url: contact
 menus:
   main:
-    title: Features
+    title: Goals
     weight: 2
 template: landing
 
