@@ -41,12 +41,12 @@ sections:
       url: "/features"
 - type: section_cta
   template: section_cta
-  section_id: call-to-action
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
+  section_id: feeling depressed
+  title: Feeling Depressed? Are You Looking out for help ?
+  subtitle: 'Drop a mail to us, we may contact you. '
   actions:
-  - label: Get Started
-    url: "/signup"
+  - label: Contact Us
+    url: "/contact"
 - type: section_posts
   template: section_posts
   section_id: recent-posts
