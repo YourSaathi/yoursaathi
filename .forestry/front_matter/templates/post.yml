@@ -37,6 +37,5 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/Customer-Service-Skills-that-Every-Employee-Needs.md
 - src/pages/posts/Set-Big-Goals.md
 - src/pages/posts/working-from-home.md
