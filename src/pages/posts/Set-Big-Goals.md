@@ -1,10 +1,10 @@
 ---
 title: Why Did We Come up with YourSaathi ?
 date: 2020-03-14T11:54:00Z
-thumb_img_path: images/12_thumb.jpg
-img_path: images/12.jpg
-excerpt: Pellentesque habitant morbi tristique senectus et netus et malesuada fames
-  ac turpis egestas.
+thumb_img_path: "/images/Facebook Cover 851x315 px-1.jpeg"
+img_path: "/images/Facebook Cover 851x315 px-2.jpeg"
+excerpt: Sending Love to all the Women who are trying to best heal from the things
+  they donot discuss! ❤❤
 template: post
 subtitle: ''
 
