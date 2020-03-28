@@ -31,9 +31,7 @@ sections:
       the most probable solution of their day to day miseries. Also, keeping in mind
       the security concern of women.
     image: "/images/undraw_video_call_kxyp.svg"
-    actions:
-    - label: Learn More
-      url: "/features"
+    actions: []
   - title: A Forum
     content: There is a forum to share problems with a group of women and counsellors.t
       will help women gain inspiration from others and would be provided with a safe
