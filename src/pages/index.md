@@ -22,9 +22,7 @@ sections:
     content: We provide Anonymous Counselling to the women who don't feel comfortable
       revealing their identity.
     image: "/images/undraw_chatting_2yvo.svg"
-    actions:
-    - label: Learn More
-      url: "/features"
+    actions: []
   - title: Face to Face Counselling
     content: We provide face to face counselling if required by a women. They can
       interact through video call or audio call.
