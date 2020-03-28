@@ -26,8 +26,10 @@ sections:
     actions: []
   - title: Face to Face Counselling
     content: We provide face to face counselling if required by a women. They can
-      interact through features like chat, video call and an audio call. Also, keeping
-      in mind the security concern of women.
+      interact through features like chat, video call and an audio call, this will
+      help them to better explain their problems and at the same time providing them
+      the most probable solution of their day to day miseries. Also, keeping in mind
+      the security concern of women.
     image: "/images/undraw_video_call_kxyp.svg"
     actions:
     - label: Learn More
