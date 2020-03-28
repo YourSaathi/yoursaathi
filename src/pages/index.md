@@ -25,10 +25,10 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
+  - title: Face to Face Counselling
+    content: We provide face to face counselling if required by a women. They can
+      interact through video call or audio call.
+    image: "/images/undraw_video_call_kxyp.svg"
     actions:
     - label: Learn More
       url: "/features"
