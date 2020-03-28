@@ -8,9 +8,7 @@ sections:
   content: Welcome to **YourSaathi** a Counselling Platform for all the Women who
     are trying to best heal from things they do not discuss.
   image: "/images/anxiousgirl.png"
-  actions:
-  - label: Learn More
-    url: "/features"
+  actions: []
 - type: section_features
   template: section_features
   section_id: features
