@@ -1,10 +1,12 @@
 ---
 title: 'COVID-19: An attack on mental health'
 date: 2019-04-22
-thumb_img_path: images/9_thumb.jpg
-img_path: images/9.jpg
-excerpt: Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+thumb_img_path: "/images/Ivory and Ash Grey Photo DIY Influencer Minimalist Facebook
+  Cover-1.png"
+img_path: "/images/Ivory and Ash Grey Photo DIY Influencer Minimalist Facebook Cover-2.png"
+excerpt: COVID-19 is the infectious disease caused by the most recently discovered
+  coronavirus. This new virus and disease were unknown before the outbreak began in
+  Wuhan, China, in December 2019
 template: post
 subtitle: ''
 
@@ -23,22 +25,30 @@ So, We should take a step forward proactively rather than reacting on an escalat
 
 Wash your with soap often if they seem to be dirty or Clean them with alcohol-based sanitizer if they don't seem to be dirty.
 
+![](/images/Step1.png)
+
 2\. Cough into elbows
 
 If you are not suffering from cough or cold, sneeze or cough into your elbows.
+
+![](/images/Step2.png)
 
 3\. Don't Touch your face
 
 Avoid touching your face, nose and mouth.
 
+![](/images/Step3.png)
+
 4\. Keep Safe Distance
 
 Try to maintain a distance of 1 m from the person suffering from cold or fever.
 
-  
+![](/images/step4.png)  
 5\. Stay Home
 
 Stay home if you can and Avoid social gathering.
+
+![](/images/step5.png)
 
 Despite knowing these facts people often ignore them, thereby making their immediate contacts more vulnerable to this disease. So in order to remain safe and secure a dedicated and a wholehearted implementation of such precautionary measures is the need of an hour which can also help in containing this virus within a short span of time. So instead of being obsessed about its possible repercussions, we all must stand in unison in order to fight against this pandemic.
 
