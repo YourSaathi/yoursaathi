@@ -1,6 +1,6 @@
 ---
 title: 'COVID-19: An attack on mental health'
-date: 2019-04-22
+date: 2020-03-21T12:53:00Z
 thumb_img_path: "/images/C L O U D-2.png"
 img_path: "/images/Ivory and Ash Grey Photo DIY Influencer Minimalist Facebook Cover-4.png"
 excerpt: COVID-19 is the infectious disease caused by the most recently discovered
